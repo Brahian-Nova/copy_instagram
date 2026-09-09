@@ -1,17 +1,39 @@
-# copy_instagram
+# Interfaz de Instagram 📱
 
-A new Flutter project.
+Proyecto desarrollado con **Flutter y Dart** como práctica de desarrollo de aplicaciones móviles.
 
-## Getting Started
+## 📌 Descripción
 
-This project is a starting point for a Flutter application.
+El proyecto consiste en la creación de una interfaz inspirada en Instagram, utilizando diferentes widgets de Flutter para construir la estructura visual de la aplicación.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Barra superior con título e iconos.
+- Historias con desplazamiento horizontal.
+- Publicaciones con imágenes.
+- Foto de perfil de los usuarios.
+- Botones de me gusta, comentarios, compartir y guardar.
+- Contador de "Me gusta".
+- Descripción de las publicaciones.
+- Desplazamiento vertical entre publicaciones.
+- Barra de navegación inferior.
+- Indicadores de notificaciones.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Visual Studio Code
+- Android Emulator
+
+## 📱 Interfaz
+
+La aplicación cuenta con una estructura visual inspirada en Instagram, incluyendo historias, publicaciones y navegación inferior.
+
+## 👨‍💻 Autor
+
+Brahian Nova
+
+---
+
+Proyecto académico desarrollado como práctica de desarrollo de aplicaciones móviles.
